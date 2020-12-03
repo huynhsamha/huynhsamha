@@ -1,15 +1,25 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java and NodeJS
-- 🌱 I’m currently learning Elasticsearch, Grafana, Prometheus and more ...
+- 🔭 I’m currently working on **Java** and **NodeJS**
+- 🌱 I’m currently learning *Elasticsearch, Grafana, Prometheus* and more ...
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=jsrmvi&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=dontpad&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=electron-file-encryption&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=grafana-dashboards-elasticsearch&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=crypto&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
