@@ -1,16 +1,14 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on **Java** and **NodeJS**
-- 🌱 I’m currently learning *Elasticsearch, Grafana, Prometheus* and more ...
-
-
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/huynhsamha)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact&hide=html,xml&langs_count=8)](https://github.com/huynhsamha)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact)](https://github.com/huynhsamha)
 
+<!--
+
+- 🔭 I’m currently working on **Java** and **NodeJS**
+- 🌱 I’m currently learning *Elasticsearch, Grafana, Prometheus* and more ...
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vnspoj&repo=vnspoj.github.io&show_owner=true)](https://vnspoj.github.io/)
@@ -19,7 +17,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wearenodev&repo=wearenodev.github.io&show_owner=true)](https://wearenodev.github.io/)
 
 
-<!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=dontpad&show_owner=true)](https://github.com/huynhsamha/dontpad)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=electron-file-encryption&show_owner=true)](https://github.com/huynhsamha/electron-file-encryption)
 
