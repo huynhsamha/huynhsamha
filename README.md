@@ -5,19 +5,21 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/huynhsamha)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact)](https://github.com/huynhsamha)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=dontpad&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=electron-file-encryption&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=grafana-dashboards-elasticsearch&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=crypto&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=dontpad&show_owner=true)](https://github.com/huynhsamha/dontpad)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=electron-file-encryption&show_owner=true)](https://github.com/huynhsamha/electron-file-encryption)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=grafana-dashboards-elasticsearch&show_owner=true)](https://github.com/huynhsamha/grafana-dashboards-elasticsearch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huynhsamha&repo=crypto&show_owner=true)](https://github.com/huynhsamha/crypto)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vnspoj&repo=vnspoj.github.io&show_owner=true)](https://vnspoj.github.io/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wearenodev&repo=wearenodev.github.io&show_owner=true)](https://wearenodev.github.io/)
 
 
 
