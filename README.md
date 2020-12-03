@@ -1,7 +1,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/huynhsamha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact&hide=html,xml&langs_count=8)](https://github.com/huynhsamha)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact&hide=xml&langs_count=6)](https://github.com/huynhsamha)
 
 
 
