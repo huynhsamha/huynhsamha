@@ -1,7 +1,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huynhsamha&show_icons=true&count_private=true)](https://github.com/huynhsamha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact&hide=xml&langs_count=6)](https://github.com/huynhsamha)
 
 
 
@@ -9,6 +8,8 @@
 
 - 🔭 I’m currently working on **Java** and **NodeJS**
 - 🌱 I’m currently learning *Elasticsearch, Grafana, Prometheus* and more ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhsamha&layout=compact&hide=xml&langs_count=6)](https://github.com/huynhsamha)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vnspoj&repo=vnspoj.github.io&show_owner=true)](https://vnspoj.github.io/)
